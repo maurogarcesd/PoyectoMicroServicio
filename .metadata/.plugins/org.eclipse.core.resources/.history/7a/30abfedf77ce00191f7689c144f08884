@@ -1,0 +1,14 @@
+package com.Microservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ApigtwyApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ApigtwyApplication.class, args);
+		
+	}
+
+}
